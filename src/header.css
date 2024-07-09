@@ -1,0 +1,12 @@
+.forbox{
+    max-width: 1000px;
+    height: 80px;
+    margin: auto;
+    box-shadow: 2px 2px aqua;
+    background-color: rgb(236 72 153);
+    font-size: xx-large;
+    padding: auto;
+    border: 3px solid #e69cb5;
+    border-radius: 8px;
+    overflow: hidden;
+}
